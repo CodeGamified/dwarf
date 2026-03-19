@@ -1,0 +1,3 @@
+[submodule "Dwarf/Assets/Engine"]
+	path = Dwarf/Assets/Engine
+	url = https://github.com/CodeGamified/.engine.git
